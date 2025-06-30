@@ -1,2 +1,2 @@
 # dicostorypiraNew
-Aplikasi cerita dengan peta &amp; kamera
+Aplikasi cerita dengan peta & kamera
